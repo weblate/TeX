@@ -50,18 +50,18 @@
         "allMusics": "所有音乐",
         "filters": "筛选",
         "details": {
-            "genres": "",
+            "genres": "流派：",
             "totalDiscs": "磁盘总数：",
             "year": "年：",
             "studios": "工作室：",
             "writers": "作家:",
             "directors": "董事：",
             "disk": "磁盘",
-            "born": "",
-            "mood": "",
-            "formed": "",
-            "disbanded": "",
-            "episodes": "",
+            "born": "出生日期：",
+            "mood": "气氛：",
+            "formed": "形成日期：",
+            "disbanded": "解散日期：",
+            "episodes": "剧集：",
             "musicsBy": "",
             "playButton": "播放",
             "playNext": "",
@@ -102,7 +102,8 @@
         },
         "edit": {
             "remove": "删除"
-        }
+        },
+        "collections": "集合"
     },
     "player": {
         "playlist": "",
@@ -161,6 +162,6 @@
         "refreshPageToSee": ""
     },
     "remote": {
-        "sendText": "发送文本"
+        "sendText": "发送消息"
     }
 }
